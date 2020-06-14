@@ -1,3 +1,7 @@
 Nama 
+<<<<<<< HEAD
 Minuman
 Makanan
+=======
+Makanan
+>>>>>>> parent of 97d19f3... Update Testing.txt
