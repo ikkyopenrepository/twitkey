@@ -1,2 +1,2 @@
 # twitkey
-Twitkey is a simple casual game
+Twitkey is a simple casual game. 
